@@ -14,6 +14,8 @@ The goal of the project was to improve property search platform by incorporating
 
 I successfully developed a robust web scraper using Python, utilizing libraries such as Beautiful Soup and Requests. This scraper efficiently extracted crucial property details such as location, price, number of bedrooms, and amenities from the target real estate website.
 
+Data was scrapped from: https://www.zameen.com/
+
 ### 2. Data Cleaning
 
 In the data cleaning phase, I meticulously handled missing values, ensuring data consistency, and preprocessed the scraped data to make it ready for analysis. This step was vital in delivering a high-quality dataset.
